@@ -25,14 +25,14 @@ Por otro lado, he desarrolado actividades de consultoria tanto para el sector p�
 ## Cursos Relevantes
 
 **Curso Teorico-Pŕactico sobre Metodologıa para la Evaluacíonde Impacto de Poĺıticas Ṕublicas** Nivel Intermedio.<br>
-CEDLAS (UNLP) - IRDC Canadá - La Plata, Argentina _(Octubre 2014)_<br>
+[CEDLAS (UNLP)](https://www.cedlas.econo.unlp.edu.ar/) - [IRDC Canadá](https://www.idrc.ca/) - La Plata, Argentina _(Octubre 2014)_<br>
 
 **Curso Teorico-Pŕactico sobre Metodologıa para la Evaluacíonde Impacto de Poĺıticas Ṕublicas** Nivel básico.<br>
-CEDLAS (UNLP) - IRDC Canadá - La Plata, Argentina _(Agosto 2013)_<br>
+[CEDLAS (UNLP)](https://www.cedlas.econo.unlp.edu.ar/) - [IRDC Canadá](https://www.idrc.ca/) - La Plata, Argentina _(Agosto 2013)_<br>
 
 **Presupuesto Por Resultados.Banco  Mundial**  <br>
-[Centro CLEAR](https://clear-lac.org/) - [Banco Mundial](www.bancomundial.org/)<br>
-[CIDE](www.bancomundial.org/), Ciudad de México, México _(Mayo 2012)_
+[Centro CLEAR](https://clear-lac.org/) - [Banco Mundial](htttp://www.bancomundial.org/)<br>
+[CIDE](htttp://www.bancomundial.org/), Ciudad de México, México _(Mayo 2012)_
 
 **Taller sobre Oracle Business Intelligence** <br>
 [http://wwww.mecon.gob.ar](Ministerio de Economía y Finanzas), Buenos Aires _(Enero 2014)_
