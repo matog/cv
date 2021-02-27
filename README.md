@@ -31,14 +31,14 @@ CEDLAS (UNLP) - IRDC Canadá - La Plata, Argentina _(Octubre 2014)_<br>
 CEDLAS (UNLP) - IRDC Canadá - La Plata, Argentina _(Agosto 2013)_<br>
 
 **Presupuesto Por Resultados.Banco  Mundial**  <br>
-Centro CLEAR - Banco Mundial<br>
-Universidad  CIDE, Ciudad de México, México _(Mayo 2012)_
+[Centro CLEAR](https://clear-lac.org/) - [Banco Mundial](www.bancomundial.org/)<br>
+[CIDE](www.bancomundial.org/), Ciudad de México, México _(Mayo 2012)_
 
 **Taller sobre Oracle Business Intelligence** <br>
-Ministerio de Economía y Finanzas, Buenos Aires _(Enero 2014)_
+[http://wwww.mecon.gob.ar](Ministerio de Economía y Finanzas), Buenos Aires _(Enero 2014)_
 
 **Curso sobre Machine Learning** (parte del posgrado en Deep Learning)<br>
-ITBA, Buenos Aires _(Diciembre 2019)
+[http://wwww.itba.edu.ar](ITBA), Buenos Aires _(Diciembre 2019)
 
 Presentaciones en Jornadas y SeminariosNoviembre 2016Seminario Evaluaci ́on pr ́actica de pol ́ıticas p ́ublicas de ingre-so y gasto p ́ublico: impacto y equidad.Agencia Espa ̃nola de Cooperaci ́on Internacional. Presentaci ́on sobre lapropuesta de evaluaci ́on de impacto de la Tarjeta Argenta. (Cartagenade Indias, Colombia).Abril 2014Seminario Planificaci ́on, T ́ecnicas de Presupuestaci ́on y Con-trol Interno.Agencia  Espa ̃nola  de  Cooperaci ́on  Internacional.  Presentaci ́on  de  laimplementaci ́on de la Gesti ́on por Resultados en Argentina. (Monte-video, Uruguay).Octubre 2012Seminario Evaluaci ́on de la eficiencia en el Sector P ́ublico.Agencia  Espa ̃nola  de  Cooperaci ́on  Internacional.  Presentaci ́on  de  laEvaluaci ́on de Resultados e Impactos de Corto Plazo del Sistema Na-cional de Microscop ́ıa. (Santa Cruz de la Sierra, Bolivia).
 
