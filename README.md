@@ -1,4 +1,3 @@
-
 # Matías Grandi
 
 _Licenciado en Economía_ <br>
@@ -40,10 +39,24 @@ Por otro lado, he desarrolado actividades de consultoria tanto para el sector p�
 **Curso sobre Machine Learning** (parte del posgrado en Deep Learning)<br>
 [http://wwww.itba.edu.ar](ITBA), Buenos Aires _(Diciembre 2019)
 
-Presentaciones en Jornadas y SeminariosNoviembre 2016Seminario Evaluaci ́on pr ́actica de pol ́ıticas p ́ublicas de ingre-so y gasto p ́ublico: impacto y equidad.Agencia Espa ̃nola de Cooperaci ́on Internacional. Presentaci ́on sobre lapropuesta de evaluaci ́on de impacto de la Tarjeta Argenta. (Cartagenade Indias, Colombia).Abril 2014Seminario Planificaci ́on, T ́ecnicas de Presupuestaci ́on y Con-trol Interno.Agencia  Espa ̃nola  de  Cooperaci ́on  Internacional.  Presentaci ́on  de  laimplementaci ́on de la Gesti ́on por Resultados en Argentina. (Monte-video, Uruguay).Octubre 2012Seminario Evaluaci ́on de la eficiencia en el Sector P ́ublico.Agencia  Espa ̃nola  de  Cooperaci ́on  Internacional.  Presentaci ́on  de  laEvaluaci ́on de Resultados e Impactos de Corto Plazo del Sistema Na-cional de Microscop ́ıa. (Santa Cruz de la Sierra, Bolivia).
+## Charlas y Presentaciones
+**Seminario Evaluación práctica de políticas públicas de ingre-so y gasto público: impacto y equidad** Agencia Española de Cooperación Internacional<br> 
+Presentación sobre lapropuesta de evaluación de impacto de la Tarjeta Argenta.<br>
+Cartagenade Indias, Colombia _(Noviembre 2016)_
+
+
+**Seminario Planificación, Técnicas de Presupuestación y Con-trol Interno** Agencia  Española  de  Cooperación  Internacional <br> 
+Presentación  de  laimplementación de la Gestión por Resultados en Argentina.<br>
+Montevideo, Uruguay _(Abril 2014)_.
+
+**Seminario Evaluación de la eficiencia en el Sector Público** Agencia  Española  de  Cooperación  Internacional<br>
+Presentación  de la Evaluación de Resultados e Impactos de Corto Plazo del Sistema Nacional de Microscopía.
+Santa Cruz de la Sierra, Bolivia _(Octubre 2012)
+
+**Ciclo de Charlas "¿Qué hace un economista?"
+[Facultad de Ciencias Económicas - Universidad Nacional de La Plata](https://www.econo.unlp.edu.ar/) _(Mayo 2014)_
 
 ## Idiomas
 **Español**: Nativo <br>
 **Inglés**: Avanzado
 <br><br>
-
