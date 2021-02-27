@@ -34,10 +34,10 @@ Por otro lado, he desarrolado actividades de consultoria tanto para el sector p�
 [CIDE](htttp://www.bancomundial.org/), Ciudad de México, México _(Mayo 2012)_
 
 **Taller sobre Oracle Business Intelligence** <br>
-[http://wwww.mecon.gob.ar] (Ministerio de Economía y Finanzas), Buenos Aires _(Enero 2014)_
+[Ministerio de Economía y Finanzas](http://wwww.mecon.gob.ar), Buenos Aires _(Enero 2014)_
 
 **Curso sobre Machine Learning** (parte del posgrado en Deep Learning)<br>
-[http://wwww.itba.edu.ar] (ITBA), Buenos Aires _(Diciembre 2019)
+[ITBA](http://wwww.itba.edu.ar), Buenos Aires _(Diciembre 2019)
 
 ## Charlas y Presentaciones
 **Seminario Evaluación práctica de políticas públicas de ingre-so y gasto público: impacto y equidad** Agencia Española de Cooperación Internacional<br> 
