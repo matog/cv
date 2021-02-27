@@ -3,8 +3,7 @@
 
 _Licenciado en Economía_ <br>
 
-[Email](mailto:matiasgrandi@gmail.com) / [Website](https://matog.github.io/cv) / [LinkedIn](https://www.linkedin.com/in/matias-manuel-grandi-0903273//) / [GitHub](https://github.com/matog/) / [Twitter](https://twitter.com/mato/)
-
+[Email](mailto:matiasgrandi@gmail.com) / [Website](https://matog.github.io/cv) / [LinkedIn](https://www.linkedin.com/in/matias-manuel-grandi-0903273//) / [GitHub](https://github.com/matog/) 
 
 ## Resumen
 Licenciado en economía con experiencia en administración financiera, explotación de datos y programación.
