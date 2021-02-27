@@ -48,10 +48,9 @@ Presentación: "Propuesta de evaluación de impacto de la Tarjeta Argenta."<br>
 Cartagena de Indias, Colombia _(Noviembre 2016)_
 
 **Ciclo de Charlas "¿Qué hace un economista?"**<br>
-[Presentación disponible](https://github.com/matog/Que_hace_un_economista)
+[Ver presentación](https://github.com/matog/Que_hace_un_economista)<br>
 [Facultad de Ciencias Económicas - Universidad Nacional de La Plata](https://www.econo.unlp.edu.ar/) <br>
 La Plata, Argentina _(Mayo 2014)_
-
 
 **Seminario Planificación, Técnicas de Presupuestación y Con-trol Interno** <br> 
 Presentación: "Implementación de la Gestión por Resultados en Argentina."<br>
