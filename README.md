@@ -57,7 +57,7 @@ Montevideo, Uruguay _(Abril 2014)_.
 
 **Seminario Evaluación de la eficiencia en el Sector Público** Agencia  Española  de  Cooperación  Internacional<br>
 Presentación: "Evaluación de Resultados e Impactos de Corto Plazo del Sistema Nacional de Microscopía."<br>
-Santa Cruz de la Sierra, Bolivia _(Octubre 2012)
+Santa Cruz de la Sierra, Bolivia _(Octubre 2012)_
 
 ## Idiomas
 **Español**: Nativo <br>
