@@ -52,7 +52,7 @@ La Plata, Argentina _(Mayo 2014)_
 
 **Seminario Planificación, Técnicas de Presupuestación y Con-trol Interno** <br> 
 Presentación: "Implementación de la Gestión por Resultados en Argentina."<br>
-[https://www.aecid.org.uy/](Agencia  Española  de  Cooperación  Internacional)<br>
+[Agencia  Española  de  Cooperación  Internacional](https://www.aecid.org.uy/)<br>
 Montevideo, Uruguay _(Abril 2014)_.
 
 **Seminario Evaluación de la eficiencia en el Sector Público** Agencia  Española  de  Cooperación  Internacional<br>
