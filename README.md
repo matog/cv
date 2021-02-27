@@ -23,13 +23,13 @@ Por otro lado, he desarrolado actividades de consultoria tanto para el sector p�
 
 ## Cursos Relevantes
 
-**Curso Teorico-Pŕactico sobre Metodologıa para la Evaluacíonde Impacto de Poĺıticas Ṕublicas** Nivel Intermedio.<br>
+**Curso Teorico-Práctico sobre Metodología para la Evaluación de Impacto de Políticas Públicas** Nivel Intermedio.<br>
 [CEDLAS (UNLP)](https://www.cedlas.econo.unlp.edu.ar/) - [IRDC Canadá](https://www.idrc.ca/) - La Plata, Argentina _(Octubre 2014)_<br>
 
-**Curso Teorico-Pŕactico sobre Metodologıa para la Evaluacíonde Impacto de Poĺıticas Ṕublicas** Nivel básico.<br>
+**Curso Teorico-Práctico sobre Metodología para la Evaluación de Impacto de Políticas Públicas** Nivel básico.<br>
 [CEDLAS (UNLP)](https://www.cedlas.econo.unlp.edu.ar/) - [IRDC Canadá](https://www.idrc.ca/) - La Plata, Argentina _(Agosto 2013)_<br>
 
-**Presupuesto Por Resultados.Banco  Mundial**  <br>
+**Presupuesto por Resultados** <br>
 [Centro CLEAR](https://clear-lac.org/) - [Banco Mundial](htttp://www.bancomundial.org/)<br>
 [CIDE](htttp://www.bancomundial.org/), Ciudad de México, México _(Mayo 2012)_
 
