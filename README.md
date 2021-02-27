@@ -52,8 +52,9 @@ Cartagena de Indias, Colombia _(Noviembre 2016)_
 [Facultad de Ciencias Económicas - Universidad Nacional de La Plata](https://www.econo.unlp.edu.ar/) <br>
 La Plata, Argentina _(Mayo 2014)_
 
-**Seminario Planificación, Técnicas de Presupuestación y Con-trol Interno** <br> 
-Presentación: "Implementación de la Gestión por Resultados en Argentina."<br>
+**Seminario Planificación, Técnicas de Presupuestación y Control Interno** <br> 
+Presentación: "Implementación de la Gestión por Resultados en Argentina - Articulación Plan Presupuesto."<br>
+[Ver presentación](https://github.com/matog/articulacion_plan_presupuesto)
 [Agencia  Española  de  Cooperación  Internacional](https://www.aecid.org.uy/)<br>
 Montevideo, Uruguay _(Abril 2014)_.
 
