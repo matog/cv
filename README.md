@@ -6,7 +6,7 @@ _Licenciado en Economía_ <br>
 
 ## Resumen
 Licenciado en economía con experiencia en administración financiera, explotación de datos y programación.
-Poseo amplia experiencia en los cargos técnicos mas altos de la adminsitración pública en materia de administración financiera. También me he desempeñado como consultor cooridnador de proyectos financiados por BID y Banco Mundial vinculados al diseño, evaluación e implementación de políticas públicsa.
+He desarrollado mi carrera profesional los cargos técnicos mas altos de la adminsitración pública en materia de administración financiera. También me he desempeñado como consultor cooridnador de proyectos financiados por BID y Banco Mundial vinculados al diseño, evaluación e implementación de políticas públicsa.
 
 Por otro lado, he desarrolado actividades de consultoria tanto para el sector público como privado, desarrollando aplicaciones en [Python](https://www.python.org/) (utilizando frameworks como [Dash](https://plotly.com/dash/) o [Flask](https://flask.palletsprojects.com/en/1.1.x/)), para la creación de dashboards, explotando diversas bases de datos.
 
