@@ -40,8 +40,9 @@ Por otro lado, he desarrolado actividades de consultoria tanto para el sector p�
 [ITBA](http://wwww.itba.edu.ar), Buenos Aires _(Diciembre 2019)
 
 ## Charlas y Presentaciones
-**Seminario Evaluación práctica de políticas públicas de ingre-so y gasto público: impacto y equidad** Agencia Española de Cooperación Internacional<br> 
+**Seminario Evaluación práctica de políticas públicas de ingreso y gasto público: impacto y equidad**<br> 
 Presentación: "Propuesta de evaluación de impacto de la Tarjeta Argenta."<br>
+[Agencia Española de Cooperación Internacional](http://www.aecidcf.org.co/) <br>
 Cartagena de Indias, Colombia _(Noviembre 2016)_
 
 **Ciclo de Charlas "¿Qué hace un economista?"**<br>
@@ -49,8 +50,9 @@ Cartagena de Indias, Colombia _(Noviembre 2016)_
 La Plata, Argentina _(Mayo 2014)_
 
 
-**Seminario Planificación, Técnicas de Presupuestación y Con-trol Interno** Agencia  Española  de  Cooperación  Internacional <br> 
-Presentación  de  laimplementación de la Gestión por Resultados en Argentina.<br>
+**Seminario Planificación, Técnicas de Presupuestación y Con-trol Interno** <br> 
+Presentación: "Implementación de la Gestión por Resultados en Argentina."<br>
+[https://www.aecid.org.uy/](Agencia  Española  de  Cooperación  Internacional)<br>
 Montevideo, Uruguay _(Abril 2014)_.
 
 **Seminario Evaluación de la eficiencia en el Sector Público** Agencia  Española  de  Cooperación  Internacional<br>
