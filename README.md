@@ -1,7 +1,7 @@
 
 # Matías Grandi
 
-_Licenciado en Economía, viviendo Argentina_ <br>
+_Licenciado en Economía_ <br>
 
 [Email](mailto:matiasgrandi@gmail.com) / [Website](https://matog.github.io/cv) / [LinkedIn](https://www.linkedin.com/in/matias-manuel-grandi-0903273//) / [GitHub](https://github.com/matog/) / [Twitter](https://twitter.com/mato/)
 
