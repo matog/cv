@@ -57,7 +57,8 @@ Presentación: "Implementación de la Gestión por Resultados en Argentina."<br>
 [Agencia  Española  de  Cooperación  Internacional](https://www.aecid.org.uy/)<br>
 Montevideo, Uruguay _(Abril 2014)_.
 
-**Seminario Evaluación de la eficiencia en el Sector Público** Agencia  Española  de  Cooperación  Internacional<br>
+**Seminario Evaluación de la eficiencia en el Sector Público** <br>
+[Agencia  Española  de  Cooperación  Internacional](https://cfce-santacruz.aecid.es/Paginas/default.aspx)<br>
 Presentación: "Evaluación de Resultados e Impactos de Corto Plazo del Sistema Nacional de Microscopía."<br>
 Santa Cruz de la Sierra, Bolivia _(Octubre 2012)_
 
