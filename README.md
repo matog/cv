@@ -6,9 +6,9 @@ _Licenciado en Economía_ <br>
 
 ## Resumen
 Licenciado en economía con experiencia en administración financiera, explotación de datos y programación.
-He desarrollado mi carrera profesional en los cargos técnicos más altos de la adminsitración pública vinculados a la administración financiera. También me he desempeñado como cooridnador de proyectos financiados por BID y Banco Mundial vinculados al diseño, evaluación e implementación de políticas públicsa.
+He desarrollado mi carrera profesional en los cargos técnicos más altos de la administración pública vinculados a la administración financiera. También me he desempeñado como cooridnador de proyectos financiados por BID y Banco Mundial vinculados al diseño, evaluación e implementación de políticas públicas.
 
-Por otro lado, he desarrolado actividades de consultoria tanto para el sector público como privado, desarrollando aplicaciones en [Python](https://www.python.org/) (utilizando frameworks como [Dash](https://plotly.com/dash/) o [Flask](https://flask.palletsprojects.com/en/1.1.x/)), para la creación de dashboards, explotando diversas bases de datos.
+Por otro lado, he desarrollado actividades de consultoría tanto para el sector público como privado, desarrollando aplicaciones en [Python](https://www.python.org/) (utilizando frameworks como [Dash](https://plotly.com/dash/) o [Flask](https://flask.palletsprojects.com/en/1.1.x/)), para la creación de dashboards, explotando diversas bases de datos.
 
 ## Educación
 
