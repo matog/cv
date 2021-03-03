@@ -1,6 +1,6 @@
 # Matías Grandi
 
-_Licenciado en Economía_ <br>
+_Licenciado en Economía. Administración financiera, explotación de datos y programación._ <br>
 
 [Email](mailto:matiasgrandi@gmail.com) / [Website](https://matog.github.io/cv) / [LinkedIn](https://www.linkedin.com/in/matias-manuel-grandi-0903273//) / [GitHub](https://github.com/matog/) 
 
@@ -41,7 +41,7 @@ Por otro lado, he desarrollado actividades de consultoría tanto para el sector 
 
 
 
-## Charlas y Presentaciones
+## Presentaciones realizas en semiarios y ciclos.
 **Seminario Evaluación práctica de políticas públicas de ingreso y gasto público: impacto y equidad**<br> 
 Presentación: "Propuesta de evaluación de impacto de la Tarjeta Argenta."<br>
 [Agencia Española de Cooperación Internacional](http://www.aecidcf.org.co/) <br>
