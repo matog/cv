@@ -29,10 +29,10 @@ Por otro lado, he desarrollado actividades de consultoría tanto para el sector 
 **Taller sobre Oracle Business Intelligence** <br>
 [Ministerio de Economía y Finanzas](http://wwww.mecon.gob.ar), Buenos Aires _(Enero 2014)_
 
-**Curso Teorico-Práctico sobre Metodología para la Evaluación de Impacto de Políticas Públicas** Nivel Intermedio.<br>
+**Curso Teórico-Práctico sobre Metodología para la Evaluación de Impacto de Políticas Públicas** Nivel Intermedio.<br>
 [CEDLAS (UNLP)](https://www.cedlas.econo.unlp.edu.ar/) - [IRDC Canadá](https://www.idrc.ca/) - La Plata, Argentina _(Octubre 2014)_<br>
 
-**Curso Teorico-Práctico sobre Metodología para la Evaluación de Impacto de Políticas Públicas** Nivel básico.<br>
+**Curso Teórico-Práctico sobre Metodología para la Evaluación de Impacto de Políticas Públicas** Nivel básico.<br>
 [CEDLAS (UNLP)](https://www.cedlas.econo.unlp.edu.ar/) - [IRDC Canadá](https://www.idrc.ca/) - La Plata, Argentina _(Agosto 2013)_<br>
 
 **Presupuesto por Resultados** <br>
@@ -41,7 +41,7 @@ Por otro lado, he desarrollado actividades de consultoría tanto para el sector 
 
 
 
-## Presentaciones realizas en seminarios y ciclos de charlas.
+## Presentaciones realizadas en seminarios y ciclos de charlas.
 **Seminario Evaluación práctica de políticas públicas de ingreso y gasto público: impacto y equidad**<br> 
 Presentación: "Propuesta de evaluación de impacto de la Tarjeta Argenta."<br>
 [Agencia Española de Cooperación Internacional](http://www.aecidcf.org.co/) <br>
@@ -55,11 +55,11 @@ La Plata, Argentina _(Mayo 2014)_
 **Seminario Planificación, Técnicas de Presupuestación y Control Interno** <br> 
 Presentación: "Implementación de la Gestión por Resultados en Argentina - Articulación Plan Presupuesto."<br>
 [Ver presentación](https://github.com/matog/articulacion_plan_presupuesto)<br>
-[Agencia  Española  de  Cooperación  Internacional](https://www.aecid.org.uy/)<br>
+[Agencia  Española  de  Cooperación  Internacional](https://www.aecid.org.uy/)<br>
 Montevideo, Uruguay _(Abril 2014)_.
 
 **Seminario Evaluación de la eficiencia en el Sector Público** <br>
-[Agencia  Española  de  Cooperación  Internacional](https://cfce-santacruz.aecid.es/Paginas/default.aspx)<br>
+[Agencia  Española  de  Cooperación  Internacional](https://cfce-santacruz.aecid.es/Paginas/default.aspx)<br>
 Presentación: "Evaluación de Resultados e Impactos de Corto Plazo del Sistema Nacional de Microscopía."<br>
 Santa Cruz de la Sierra, Bolivia _(Octubre 2012)_
 
