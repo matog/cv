@@ -41,7 +41,7 @@ Por otro lado, he desarrollado actividades de consultoría tanto para el sector 
 
 
 
-## Presentaciones realizas en semiarios y ciclos.
+## Presentaciones realizas en semiarios y ciclos de charlas.
 **Seminario Evaluación práctica de políticas públicas de ingreso y gasto público: impacto y equidad**<br> 
 Presentación: "Propuesta de evaluación de impacto de la Tarjeta Argenta."<br>
 [Agencia Española de Cooperación Internacional](http://www.aecidcf.org.co/) <br>
