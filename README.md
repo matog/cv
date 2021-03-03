@@ -24,7 +24,7 @@ Por otro lado, he desarrollado actividades de consultoría tanto para el sector 
 ## Cursos Relevantes
 
 **Curso sobre Machine Learning** (parte del posgrado en Deep Learning)<br>
-[ITBA](http://wwww.itba.edu.ar), Buenos Aires _(Diciembre 2019)
+[ITBA](http://wwww.itba.edu.ar), Buenos Aires _(Diciembre 2019)_
 
 **Taller sobre Oracle Business Intelligence** <br>
 [Ministerio de Economía y Finanzas](http://wwww.mecon.gob.ar), Buenos Aires _(Enero 2014)_
