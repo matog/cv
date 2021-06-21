@@ -26,6 +26,9 @@ Por otro lado, he desarrollado actividades de consultoría tanto para el sector 
 **Curso sobre Machine Learning** (parte del posgrado en Deep Learning)<br>
 [ITBA](http://wwww.itba.edu.ar), Buenos Aires _(Diciembre 2019)_
 
+**DataLab sobre Machine Learning**<br>
+[Parser](http://wwww.parserdigital.com), Buenos Aires _(Mayo 2021)_
+
 **Taller sobre Oracle Business Intelligence** <br>
 [Ministerio de Economía y Finanzas](http://wwww.mecon.gob.ar), Buenos Aires _(Enero 2014)_
 
