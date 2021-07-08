@@ -5,10 +5,13 @@ _Licenciado en Economía. Administración financiera, explotación de datos y pr
 [Email](mailto:matiasgrandi@gmail.com) / [Website](https://matog.github.io/cv) / [LinkedIn](https://www.linkedin.com/in/matias-manuel-grandi-0903273//) / [GitHub](https://github.com/matog/) 
 
 ## Resumen
-Licenciado en economía con experiencia en administración financiera, explotación de datos y programación.
-He desarrollado mi carrera profesional en los cargos técnicos más altos de la administración pública vinculados a la administración financiera. También me he desempeñado como coordinador de proyectos financiados por BID y Banco Mundial vinculados al diseño, evaluación e implementación de políticas públicas.
+Licenciado en economía con experiencia en administración financiera, explotación de datos y programación.  
 
-Por otro lado, he desarrollado actividades de consultoría tanto para el sector público como privado, desarrollando aplicaciones en [Python](https://www.python.org/) (utilizando frameworks como [Dash](https://plotly.com/dash/) o [Flask](https://flask.palletsprojects.com/en/1.1.x/)), para la creación de dashboards, explotando diversas bases de datos y aplicando algoritmos de machine learning. Siguiendo este [enlace](https://github.com/matog/) se pueden ver algunos de mis proyectos
+Con formación primaria como economista, y especializado en el procesamiento de información, he desarrollado actividades de consultoría tanto para el sector público como privado, desarrollando aplicaciones en [Python](https://www.python.org/) (utilizando frameworks como [Dash](https://plotly.com/dash/) o [Flask](https://flask.palletsprojects.com/en/1.1.x/)), para la creación de dashboards, explotando diversas bases de datos y aplicando algoritmos de machine learning (regresiones, knn, clusters, nlp). En  [Github](https://github.com/matog/) se pueden ver algunos de mis proyectos.
+
+Por otro lado,  me desempeñé en los cargos técnicos más altos de la administración pública vinculados a la administración financiera y el procesamiento y análisis de bases de datos.  También me he desempeñado como coordinador de proyectos financiados por BID y Banco Mundial vinculados al diseño, evaluación e implementación de políticas públicas. En los proyecto que coordiné y gerencié, tuve equipos de hasta 200 personas a cargo.
+
+Por último, me desempeño como docente de grado en diferentes universidades (UNLP, UCASAL, UCALP) en materias vinculadas a la teoría económica. Para destacar, durante 2021 fui invitado como docente al webinar de [Flacso](https://www.flacso.org.ar/) [“Big Data Methods for Social Sciences”](https://www.flacso.org.ar/formacion-academica/metodos-de-big-data-para-ciencias-sociales-y-politicas-publicas/)
 
 ## Educación
 
