@@ -11,7 +11,7 @@ Con formación primaria como economista, y especializado en el procesamiento de 
 
 Por otro lado,  me desempeñé en los cargos técnicos más altos de la administración pública vinculados a la administración financiera y el procesamiento y análisis de bases de datos.  También me he desempeñado como coordinador de proyectos financiados por BID y Banco Mundial vinculados al diseño, evaluación e implementación de políticas públicas. En los proyecto que coordiné y gerencié, tuve equipos de hasta 200 personas a cargo.
 
-Por último, me desempeño como docente de grado en diferentes universidades (UNLP, UCASAL, UCALP) en materias vinculadas a la teoría económica. Para destacar, durante 2021 fui invitado como docente al webinar de [Flacso](https://www.flacso.org.ar/) [“Big Data Methods for Social Sciences”](https://www.flacso.org.ar/formacion-academica/metodos-de-big-data-para-ciencias-sociales-y-politicas-publicas/)
+Por último, me desempeño como docente de grado en diferentes universidades (UNLP, UCASAL, UCALP) en materias vinculadas a la teoría económica. Para destacar, durante 2021 fui invitado como docente al webinar de [Flacso](https://www.flacso.org.ar/) [“Métodos de Big Data para Ciencias Sociales y Políticas Públicas”](https://www.flacso.org.ar/formacion-academica/metodos-de-big-data-para-ciencias-sociales-y-politicas-publicas/)
 
 ## Educación
 
