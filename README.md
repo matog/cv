@@ -13,7 +13,7 @@ Por otro lado,  me desempeñé en los cargos técnicos más altos de la administ
 
 Por último, me desempeño como docente de grado en diferentes universidades (UNLP, UCASAL, UCALP) en materias vinculadas a la teoría económica. Soy director del curso de ["Ciencias de Datos para la Salud con Python"](http://isalud.produccion.netaudit.com.ar/capacitacion-virtual/ciencia-de-datos-en-salud-python-2022) en iSalud y docente del curso [“Métodos de Big Data para Ciencias Sociales y Políticas Públicas”](https://www.flacso.org.ar/formacion-academica/metodos-de-big-data-para-ciencias-sociales-y-politicas-publicas/) en [Flacso](https://www.flacso.org.ar/).
 
-Actualmente me desempeño como gerente de administraci
+Actualmente me desempeño como gerente de administración en una startup del sector fintech.
 
 ## Educación
 
