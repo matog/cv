@@ -11,7 +11,7 @@ Con formación primaria como economista, y especializado en el procesamiento de 
 
 Por otro lado,  me desempeñé en los cargos técnicos más altos de la administración pública vinculados a la administración financiera y el procesamiento y análisis de bases de datos.  También me he desempeñado como coordinador de proyectos financiados por BID y Banco Mundial vinculados al diseño, evaluación e implementación de políticas públicas. En los proyecto que coordiné y gerencié, tuve equipos de hasta 200 personas a cargo.
 
-Por último, me desempeño como docente de grado en diferentes universidades (UNLP, UCASAL, UCALP) en materias vinculadas a la teoría económica. Soy director del curso de ["Ciencias de Datos para la Salud con Python"](http://isalud.produccion.netaudit.com.ar/capacitacion-virtual/ciencia-de-datos-en-salud-python-2022) de iSalud y docente del curso de [Flacso](https://www.flacso.org.ar/) [“Métodos de Big Data para Ciencias Sociales y Políticas Públicas”](https://www.flacso.org.ar/formacion-academica/metodos-de-big-data-para-ciencias-sociales-y-politicas-publicas/)
+Por último, me desempeño como docente de grado en diferentes universidades (UNLP, UCASAL, UCALP) en materias vinculadas a la teoría económica. Soy director del curso de ["Ciencias de Datos para la Salud con Python"](http://isalud.produccion.netaudit.com.ar/capacitacion-virtual/ciencia-de-datos-en-salud-python-2022) en iSalud y docente del curso [“Métodos de Big Data para Ciencias Sociales y Políticas Públicas”](https://www.flacso.org.ar/formacion-academica/metodos-de-big-data-para-ciencias-sociales-y-politicas-publicas/) en [Flacso](https://www.flacso.org.ar/).
 
 Actualmente me desempeño como gerente de administraci
 
