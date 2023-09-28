@@ -56,13 +56,13 @@ Presentación: "Propuesta de evaluación de impacto de la Tarjeta Argenta."<br>
 Cartagena de Indias, Colombia _(Noviembre 2016)_
 
 **Ciclo de Charlas "¿Qué hace un economista?"**<br>
-[Ver presentación](https://github.com/matog/Que_hace_un_economista)<br>
+[Ver presentación](https://matiasgrandi.github.io/economista.html)<br>
 [Facultad de Ciencias Económicas - Universidad Nacional de La Plata](https://www.econo.unlp.edu.ar/) <br>
 La Plata, Argentina _(Mayo 2014)_
 
 **Seminario Planificación, Técnicas de Presupuestación y Control Interno** <br> 
 Presentación: "Implementación de la Gestión por Resultados en Argentina - Articulación Plan Presupuesto."<br>
-[Ver presentación](https://github.com/matog/articulacion_plan_presupuesto)<br>
+[Ver presentación](https://matiasgrandi.github.io/plan-presupuesto.html)<br>
 [Agencia  Española  de  Cooperación  Internacional](https://www.aecid.org.uy/)<br>
 Montevideo, Uruguay _(Abril 2014)_.
 
