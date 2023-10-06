@@ -28,7 +28,10 @@ Actualmente me desempeño como gerente de administración en una startup del sec
 
 ## Cursos Relevantes
 
-**Curso sobre Machine Learning** (parte del posgrado en Deep Learning)<br>
+**Ciencia de datos y big data**<br>
+[UBA Ingenieria]([http://wwww.itba.edu.ar](https://www.fi.uba.ar/noticias/curso-de-ciencia-de-datos-y-big-data)), Buenos Aires _(Diciembre 2023)_
+
+**Machine Learning** (parte del posgrado en Deep Learning)<br>
 [ITBA](http://wwww.itba.edu.ar), Buenos Aires _(Diciembre 2019)_
 
 **DataLab sobre Machine Learning**<br>
